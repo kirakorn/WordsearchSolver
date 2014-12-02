@@ -11,6 +11,7 @@ import javax.swing.JOptionPane;
 
  @author yuvalhermelin
  */
+// All software protected under the Apache License version 2.0
 public class List
 {
 
