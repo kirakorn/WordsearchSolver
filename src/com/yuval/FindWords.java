@@ -10,9 +10,7 @@ import java.io.IOException;
 import javax.swing.JOptionPane;
 
 
-///////////////////////////////////////////////////////////////////
-//ALL RIGHTS RESERVED. YUVAL HERMELIN, SUNNYVALE - CALIFORNIA. 2014
-///////////////////////////////////////////////////////////////////
+// All software protected under the Apache License version 2.0
 public class FindWords
 {
 
